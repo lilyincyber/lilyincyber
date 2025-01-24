@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lily! 
 
-<h2>👩‍💻 Cybersecurity Projects:</h2>
+<h2>👩‍💻 School Cybersecurity Projects:</h2>
 
 - <b>Emerging Technologies in Cybersecurity</b>
   - [Nmap Scan & Wireshark Anomalies.pdf](https://github.com/user-attachments/files/18542899/Nmap.Scan.Wireshark.Anomalies.pdf)
