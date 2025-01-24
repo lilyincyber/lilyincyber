@@ -5,8 +5,9 @@
 - <b>Nmap and Wireshark Project</b>
   - [GRP1 Task 1 Nmap and Wireshark.pdf](https://github.com/user-attachments/files/18542101/GRP1.Task.1.Nmap.and.Wireshark.pdf)
 
+
 - <b> Legal Analysis of Issues in Information Security</b>
-  - [https://westerngovernorsuniversity-my.sharepoint.com/:w:/r/personal/lro1165_wgu_edu/Documents/GRP1%20Task%201%20Nmap%20and%20Wireshark.docx?d=w0bb9819bac36408baee9441cb42f92f7&csf=1&web=1&e=TKpEkd)</b></i>
+  - [Task 1 Legal Analysis.pdf](https://github.com/user-attachments/files/18542167/Task.1.Legal.Analysis.pdf)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
